@@ -1,0 +1,6 @@
+@tarea1progra2_HostAddress = http://localhost:5001
+
+GET {{tarea1progra2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
